@@ -30,6 +30,6 @@ The **Security Audit Assessment** attempts to verify your Windows Security Audit
 
 ## Screenshots
 
-![Version 1 Black](./Images/WorkspaceReconToolsBlack.png)
+![Version 1 Black](https://github.com/AndrewBlumhardt/SentinelReconTools/blob/main/Images/SentinelWorkspaceReconToolsBlack.png)
 
-![Version 1 White](./Images/WorkspaceReconToolsWhite.png)
+![Version 1 White](https://github.com/AndrewBlumhardt/SentinelReconTools/blob/main/Images/SentinelWorkspaceReconToolsWhite.png)
